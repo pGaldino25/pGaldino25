@@ -1,7 +1,7 @@
 ```
 knowledge = []
 alive = True
-new_studies() ## Return studies
+studies = new_studies()
 
 while alive:
   for estudy in studies:
