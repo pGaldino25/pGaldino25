@@ -1,6 +1,12 @@
 
 <h1 align="center">Olá 👋, Eu sou Paulo Galdino</h1>
-<h3 align="center">Entusiasta das melhores tecnologias de desenvolvimento web & mobile. Meu objetivo principal é melhorar a vida das pessoas através da programação, por esse motivo eu resolvi me aprofundar nas tecnologias React, NodeJS e React Native, com a intenção de colocar em prática algumas ideias para desenvolvimento de aplicativos mobile.</h3>
+<h3 align="center">Entusiasta das melhores tecnologias de desenvolvimento web & mobile. 
+
+Atualmente, possuo 4 anos de experiência trabalhando com backend em Python, desenvolvendo soluções em diversas áreas, incluindo automação de processos, análise de dados e desenvolvimento web. Além disso, tenho forte habilidade em escrever códigos limpos e organizados, bem como capacidade de trabalhar em equipe e resolver problemas de forma eficiente.
+
+Recentemente, também tive a oportunidade de desenvolver aplicações web com React e app mobile com react native. Durante este último ano, trabalhei em projetos desafiadores, adquirindo sólidas habilidades em desenvolvimento front-end, incluindo a criação de componentes reutilizáveis.
+  
+Meu objetivo principal é melhorar a vida das pessoas através da programação, por esse motivo eu resolvi me aprofundar nas tecnologias React, NodeJS e React Native, com a intenção de colocar em prática algumas ideias para desenvolvimento de aplicativos mobile.</h3>
 
 - 🔭 Atualmente trabalho na **C&M Software**
 
